@@ -35,3 +35,7 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
     I will try to look the projects I have submitted and see the different versions.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    Working directory is the actual os directory which have our files and directories, where we have git initialized. Staging area is the prestage where we add files/dir to be added to GIT
